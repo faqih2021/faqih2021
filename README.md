@@ -25,5 +25,3 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=007ACC)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&labelColor=black&logo=jenkins&logoColor=D24939)
-
----
